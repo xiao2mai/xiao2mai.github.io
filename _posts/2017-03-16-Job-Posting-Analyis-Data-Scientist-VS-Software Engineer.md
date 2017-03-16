@@ -1,4 +1,3 @@
-
 ## STA141B Project: CyberCoders Job Postings: DS VS SDE
 
 In our project, we get the information of 109 Data Scientist and 200 Software Engineer job postings on 
@@ -9,7 +8,7 @@ the most important skills through NLP techniques. The degree required for the jo
 topics we are interested in. If you want to know more, [please click here](https://xinyihou.github.io/IndeedProject/).
 
 ![Image of salary](https://xinyihou.github.io/assets/images/salary.PNG)
-![Image of skill](https://xinyihou.github.io/assets/images/skill.jpg|width = 600)
+![Image of skill](https://xinyihou.github.io/assets/images/skill.jpg =400*400)
 <center>Important Skills for Data Scientist</center>
 
 
