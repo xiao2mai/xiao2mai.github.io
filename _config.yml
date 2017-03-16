@@ -11,9 +11,9 @@ title                    : "Welcome to know more about Xinyi"
 title_separator          : "-"
 name                     : "Xinyi Hou"
 description              : "A good place to know more about the aspiring data scientist, Xinyi!"
-url                      : #the base hostname & protocol for your site e.g. "https://xinyihou.github.io"
+url                      : "https://xinyihou.github.io" #the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : #GitHub username/repo-name e.g. "xinyihou/xinyihou.github.io"
+repository               : "xinyihou/xinyihou.github.io" #GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
