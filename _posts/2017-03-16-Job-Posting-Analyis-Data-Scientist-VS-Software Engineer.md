@@ -7,9 +7,9 @@ comparison among different part of US. What is more, we find the need of years o
 the most important skills through NLP techniques. The degree required for the job and the posting dates are also
 topics we are interested in. If you want to know more, [please click here](https://xinyihou.github.io/IndeedProject/).
 
-<img src="https://xinyihou.github.io/assets/images/salary.PNG" width="600">
+<img src="https://xinyihou.github.io/assets/images/salary.PNG" width="600" align="center">
 <center>Salary Distribution of DS VS SDE</center>
-<img src="https://xinyihou.github.io/assets/images/skill.jpg" width="400">
+<img src="https://xinyihou.github.io/assets/images/skill.jpg" width="500" align="center">
 <center>Important Skills for Data Scientist</center>
 
 
