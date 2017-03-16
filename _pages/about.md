@@ -1,3 +1,13 @@
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+	  permalink: /about/
+	  
 ### My Education History
 
 Hello, everyone! I am Xinyi, a master student of statistics of UC Davis. 
