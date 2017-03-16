@@ -14,7 +14,7 @@ description              : "A good place to know more about the aspiring data sc
 url                      : "https://xinyihou.github.io" #the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xinyihou/xinyihou.github.io" #GitHub username/repo-name e.g. 
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #"/assets/images/forest.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,24 +77,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Xinyi Hou"
+  avatar           : "/assets/images/IMG_0008.JPG"
+  bio              : "Love data, Enjoy Life"
+  location         : "Davis,CA"
+  email            : "houxinyi616@gmail.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           :
+  github           : "xinyihou"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "xinyihou"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -102,7 +102,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : "http://weibo.com/u/2602413877"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
