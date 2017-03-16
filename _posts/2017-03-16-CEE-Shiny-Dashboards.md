@@ -1,16 +1,19 @@
-## STA141B Project: CyberCoders Job Postings: DS VS SDE
+## Internship at CEE: Shiny Dashboards of DDD and KYS
 
-In our project, we get the information of 109 Data Scientist and 200 Software Engineer job postings on 
-[CyberCoders](https://www.cybercoders.com/) through web scraping, which includes the job title, id, description,
-post data, salary range, preferred skills, city, and state. We compare the salary of DS and SDE, also including the
-comparison among different part of US. What is more, we find the need of years of experience through regular expression,
-the most important skills through NLP techniques. The degree required for the job and the posting dates are also
-topics we are interested in. If you want to know more, [please click here](https://xinyihou.github.io/IndeedProject/).
+Now, I am a student data analyst and programmer at [Center for Educational Effectiveness](http://cee.ucdavis.edu/) of our school.
+The DDD(Department Diagnostic Dashboards) and KYS(Know Your Students) are two tools I and several other students built during 2016 summer.
+The DDD could help provosts, deans and advisors know more about their departments students, instructors and courses. The main goal of KYS is to give a nice 
+access to instructors for the backgrounds of students in their classes. They are built through R Shiny and are [web-based dashbaords](https://dashboards.ucdavis.edu/) now, but you may not have 
+authorization to dig into them. Thus, we get some nice screenshots and if you want to know more, [please click here](https://github.com/xinyihou/shiny-dashboards-at-CEE).
 
-<center><img src="https://xinyihou.github.io/assets/images/salary.PNG" width="600" align="center"></center>
-<center>Salary Distribution of DS VS SDE</center>
-<center><img src="https://xinyihou.github.io/assets/images/skill.jpg" width="500" align="center"><center>
-<center>Important Skills for Data Scientist</center>
+<img src="https://xinyihou.github.io/assets/images/DDD.PNG">
+<center>Welcome Page of DDD</center>
+<img src="https://xinyihou.github.io/assets/images/DDD2.PNG">
+<center>Four Year Graduate Rate of Freshman</center>
+<img src="https://xinyihou.github.io/assets/images/KYS.PNG">
+<center>Welcome Page of KYS</center>
+<img src="https://xinyihou.github.io/assets/images/KYS2.PNG">
+<center>Attedned and Passed Hours of Students in One Course</center>
 
 
 
