@@ -5,7 +5,7 @@ permalink: /project/
 title: "Projects"
 ---
 
-- [STA141B Project: CyberCoders Job Postings Exploration: Data Scientist VS Software Engineer](xiao2mai.github.io/assets/images/skill.jpg)
+- [STA141B Project: CyberCoders Job Postings Exploration: Data Scientist VS Software Engineer](https://xinyihou.github.io/IndeedProject/)
 
 
 
