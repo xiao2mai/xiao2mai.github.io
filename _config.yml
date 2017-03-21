@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Welcome to know more about Xinyi"
+title                    : "Welcome"
 title_separator          : "-"
-name                     : "Xinyi Hou"
-description              : "A good place to know more about the aspiring data scientist, Xinyi!"
-url                      : "https://xinyihou.github.io" #the base hostname & protocol for your site e.g. 
+name                     : "Hongyu Guo"
+description              : 
+url                      : "https://xiao2mai.github.io" #the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "xinyihou/xinyihou.github.io" #GitHub username/repo-name e.g. 
+repository               : "xiao2mai/xiao2mai.github.io" #GitHub username/repo-name e.g. 
 teaser                   : #"/assets/images/forest.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinyi Hou"
-  avatar           : "/assets/images/IMG_0008.JPG"
-  bio              : "Love data, Enjoy Life"
+  name             : "Hongyu Guo"
+  avatar           : "/assets/images/profile_image.JPG"
+  bio              : "Chem Code Data"
   location         : "Davis,CA"
-  email            : "houxinyi616@gmail.com"
+  email            : "chemcodedata@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "xinyihou"
+  github           : "xiao2mai"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "xinyihou"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -102,7 +102,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            : "u/2602413877"
+  weibo            : 
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
