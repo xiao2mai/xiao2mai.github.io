@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Hongyu Guo"
-  avatar           : "/assets/images/profile_image.JPG"
+  avatar           : "/assets/images/profile_image.jpg"
   bio              : "Chem Code Data"
   location         : "Davis,CA"
   email            : "chemcodedata@gmail.com"
